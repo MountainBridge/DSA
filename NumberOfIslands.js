@@ -1,5 +1,5 @@
-Problem: https://leetcode.com/problems/number-of-islands/
-Solution: 
+// Problem: https://leetcode.com/problems/number-of-islands/
+// Solution: 
 
 /**
  * @param {character[][]} grid
